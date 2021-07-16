@@ -1,7 +1,7 @@
 	setBatchMode(true);
 
 //	open("D:/CurrentTasks/CENTURIProject_INMED_NadineBruneau/S245_gad67-Reelin_PFC_Fig10_1920x1923.tif");
-	open("D:/CurrentTasks/CENTURIProject_INMED_NadineBruneau/S243CTLM_gad67-Reelin_PFC_Fig10_1914x1311.tif");
+//	open("D:/CurrentTasks/CENTURIProject_INMED_NadineBruneau/S243CTLM_gad67-Reelin_PFC_Fig10_1914x1311.tif");
 	raw = getTitle();
 
 /// ----- Dialog box ----- ///
